@@ -8,6 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = 'generative-ui-arcade';
-  <!-- ja oke -->
+  protected readonly title = signal('generative-ui-arcade');
 }
