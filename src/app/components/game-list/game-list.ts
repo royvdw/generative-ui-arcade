@@ -10,5 +10,5 @@ import { GameCard } from '../game-card/game-card';
   styleUrl: './game-list.css',
 })
 export class GameList {
-  games: Game[] = games;
+  protected readonly games: Game[] = games;
 }

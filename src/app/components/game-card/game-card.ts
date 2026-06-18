@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, input } from '@angular/core';
 import { Game } from '../../models/game';
 import { RouterLink } from '@angular/router';
 
@@ -9,5 +9,5 @@ import { RouterLink } from '@angular/router';
   styleUrl: './game-card.css',
 })
 export class GameCard {
-  @Input() game!: Game;
+  game = input.required<Game>();
 }

@@ -1,7 +1,6 @@
-<a [routerLink]="['/games', game.id]">
+<a [routerLink]="['/games', game().id]">
     <div class="text-white text-center w-40 h-60 rounded-lg bg-amber-700 justify-center">
-        <div class="font-bold">{{ game.name }}</div>
-        <div>{{ game.description }}</div>
-
-</div>  <!-- card content -->
+        <div class="font-bold">{{ game().name }}</div>
+        <div>{{ game().description }}</div>
+    </div>
 </a>
