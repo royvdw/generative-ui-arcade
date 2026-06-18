@@ -1,0 +1,3262 @@
+[
+  {
+    "id": 1,
+    "name": "Pac-Man",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "maze",
+      "action"
+    ],
+    "description": "Guide Pac-Man through a maze eating dots while avoiding ghosts.",
+    "tags": [
+      "classic",
+      "iconic",
+      "family-friendly"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Donkey Kong",
+    "platform": "Arcade",
+    "publisher": "Nintendo",
+    "genre": [
+      "platformer",
+      "action"
+    ],
+    "description": "Climb ladders and jump over barrels to rescue Pauline from a giant ape.",
+    "tags": [
+      "classic",
+      "Nintendo",
+      "iconic"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Space Invaders",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Shoot waves of descending aliens before they reach the bottom.",
+    "tags": [
+      "classic",
+      "shooter",
+      "iconic"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Galaga",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Fixed shooter where alien bugs dive-bomb your ship in formation.",
+    "tags": [
+      "classic",
+      "shooter",
+      "formation"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Street Fighter II",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Choose from 8 world warriors and battle to become the world champion.",
+    "tags": [
+      "fighting",
+      "competitive",
+      "iconic",
+      "1v1"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mortal Kombat",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Brutal fighting game featuring digitized actors and finishing moves.",
+    "tags": [
+      "fighting",
+      "violent",
+      "competitive",
+      "fatality"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mortal Kombat II",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Sequel with more fighters, stages, and even more brutal fatalities.",
+    "tags": [
+      "fighting",
+      "violent",
+      "competitive",
+      "fatality"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mortal Kombat 3",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Third entry adding new run mechanic and more kombatants.",
+    "tags": [
+      "fighting",
+      "violent",
+      "competitive"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Street Fighter III: 3rd Strike",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Acclaimed fighter with parry mechanics and a new cast.",
+    "tags": [
+      "fighting",
+      "competitive",
+      "technical",
+      "1v1"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tekken 3",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "fighting"
+    ],
+    "description": "3D fighter with a large roster and fluid combat.",
+    "tags": [
+      "fighting",
+      "3D",
+      "competitive",
+      "1v1"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Tekken 2",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "fighting"
+    ],
+    "description": "3D fighting game with an expanded roster and story.",
+    "tags": [
+      "fighting",
+      "3D",
+      "competitive"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Virtua Fighter",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "fighting"
+    ],
+    "description": "First ever 3D polygon fighting game.",
+    "tags": [
+      "fighting",
+      "3D",
+      "technical",
+      "Sega"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Virtua Fighter 2",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Refined 3D fighter with improved graphics and gameplay.",
+    "tags": [
+      "fighting",
+      "3D",
+      "technical",
+      "Sega"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Soul Calibur",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Weapon-based 3D fighter with stunning visuals for its time.",
+    "tags": [
+      "fighting",
+      "3D",
+      "weapons",
+      "competitive"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "King of Fighters '98",
+    "platform": "Arcade",
+    "publisher": "SNK",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Team-based fighting game considered one of SNK's finest.",
+    "tags": [
+      "fighting",
+      "team",
+      "competitive",
+      "SNK"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Samurai Shodown",
+    "platform": "Arcade",
+    "publisher": "SNK",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Weapon-based 2D fighter with one-hit kill mechanics.",
+    "tags": [
+      "fighting",
+      "weapons",
+      "SNK",
+      "competitive"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Fatal Fury",
+    "platform": "Arcade",
+    "publisher": "SNK",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Side-scrolling fighter from SNK with line mechanics.",
+    "tags": [
+      "fighting",
+      "SNK",
+      "competitive"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Guilty Gear",
+    "platform": "Arcade",
+    "publisher": "Arc System Works",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Fast-paced anime fighter with rock music and wild characters.",
+    "tags": [
+      "fighting",
+      "anime",
+      "technical",
+      "competitive"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Darkstalkers",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Fighting game with monsters and horror characters.",
+    "tags": [
+      "fighting",
+      "horror",
+      "Capcom",
+      "competitive"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Marvel vs. Capcom 2",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Tag-team fighter featuring Marvel and Capcom characters.",
+    "tags": [
+      "fighting",
+      "Marvel",
+      "tag-team",
+      "competitive"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Double Dragon",
+    "platform": "Arcade",
+    "publisher": "Technos",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Side-scrolling brawler where brothers Billy and Jimmy rescue Marian.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "classic"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Final Fight",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Streets of Metro City need saving by Haggar, Cody, and Guy.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Capcom",
+      "classic"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Streets of Rage",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Beat up crime gangs on the streets with multiple characters.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Sega"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Teenage Mutant Ninja Turtles",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "4-player brawler where the turtles fight Shredder and the Foot Clan.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "TMNT",
+      "4-player"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "The Simpsons Arcade Game",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "4-player brawler featuring the Simpson family fighting Mr. Burns.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Simpsons",
+      "4-player"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "X-Men",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "6-player X-Men brawler, one of the widest arcade cabinets ever made.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Marvel",
+      "6-player"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Captain America and The Avengers",
+    "platform": "Arcade",
+    "publisher": "Data East",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Side-scrolling brawler featuring Marvel's Avengers.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Marvel"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Cadillacs and Dinosaurs",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Post-apocalyptic brawler featuring dinosaurs and big guns.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Capcom"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Dungeons & Dragons: Tower of Doom",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up",
+      "RPG"
+    ],
+    "description": "D&D-themed brawler with RPG elements and multiple classes.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "fantasy",
+      "RPG"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Alien vs. Predator",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Play as marines or Predators fighting the Alien horde.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "sci-fi",
+      "Capcom"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "OutRun",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Cruise down scenic routes in a Ferrari Testarossa with your girlfriend.",
+    "tags": [
+      "racing",
+      "Sega",
+      "classic",
+      "chill"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Daytona USA",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "High-speed NASCAR-style racing with iconic music.",
+    "tags": [
+      "racing",
+      "Sega",
+      "NASCAR",
+      "competitive"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Sega Rally Championship",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Rally racing on dirt, gravel, and tarmac with distinct car handling.",
+    "tags": [
+      "racing",
+      "Sega",
+      "rally"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Ridge Racer",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "racing"
+    ],
+    "description": "Drift-heavy racing game with fast cars and pumping music.",
+    "tags": [
+      "racing",
+      "drifting",
+      "Namco"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Initial D Arcade Stage",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Based on the manga/anime, featuring mountain touge racing.",
+    "tags": [
+      "racing",
+      "drifting",
+      "anime",
+      "Sega"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Mario Kart GP",
+    "platform": "Arcade",
+    "publisher": "Namco / Nintendo",
+    "genre": [
+      "racing"
+    ],
+    "description": "Mario Kart adapted for arcades with item-based kart racing.",
+    "tags": [
+      "racing",
+      "Nintendo",
+      "family-friendly",
+      "kart"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Cruis'n USA",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "racing"
+    ],
+    "description": "Race across American landmarks in this colorful arcade racer.",
+    "tags": [
+      "racing",
+      "Midway",
+      "USA"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "San Francisco Rush",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "racing"
+    ],
+    "description": "Stunt-heavy racing through San Francisco's hilly streets.",
+    "tags": [
+      "racing",
+      "stunts",
+      "Atari"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Hydro Thunder",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "racing"
+    ],
+    "description": "Powerboat racing through wild waterways and environments.",
+    "tags": [
+      "racing",
+      "boats",
+      "Midway"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Crazy Taxi",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "driving",
+      "action"
+    ],
+    "description": "Drive recklessly to deliver passengers as fast as possible.",
+    "tags": [
+      "driving",
+      "Sega",
+      "fast-paced",
+      "fun"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "1942",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "WWII vertical shooter where you pilot a fighter plane.",
+    "tags": [
+      "shooter",
+      "WWII",
+      "Capcom",
+      "vertical"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "1943: The Battle of Midway",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Sequel to 1942 with more weapons and bigger battles.",
+    "tags": [
+      "shooter",
+      "WWII",
+      "Capcom",
+      "vertical"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Raiden",
+    "platform": "Arcade",
+    "publisher": "Seibu Kaihatsu",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Top-down military shooter with intense bullet patterns.",
+    "tags": [
+      "shooter",
+      "vertical",
+      "military"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Raiden II",
+    "platform": "Arcade",
+    "publisher": "Seibu Kaihatsu",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Sequel with improved weapons and harder bullet patterns.",
+    "tags": [
+      "shooter",
+      "vertical",
+      "military"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "DoDonPachi",
+    "platform": "Arcade",
+    "publisher": "Cave",
+    "genre": [
+      "shoot 'em up",
+      "bullet hell"
+    ],
+    "description": "Intense bullet hell shooter from Cave, a genre-defining title.",
+    "tags": [
+      "bullet hell",
+      "shooter",
+      "hardcore",
+      "Cave"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Ikaruga",
+    "platform": "Arcade",
+    "publisher": "Treasure",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Puzzle-shooter where polarity switching is the key mechanic.",
+    "tags": [
+      "shooter",
+      "puzzle",
+      "technical",
+      "polarity"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Gradius",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Side-scrolling shooter with upgradeable ship and iconic bosses.",
+    "tags": [
+      "shooter",
+      "horizontal",
+      "Konami",
+      "classic"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "R-Type",
+    "platform": "Arcade",
+    "publisher": "Irem",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Methodical side-scrolling shooter with a force pod mechanic.",
+    "tags": [
+      "shooter",
+      "horizontal",
+      "technical",
+      "classic"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Contra",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Run and gun action with alien-fighting commandos.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "Konami",
+      "action"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Metal Slug",
+    "platform": "Arcade",
+    "publisher": "SNK",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Beautiful sprite-based run and gun with humor and action.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "SNK",
+      "classic"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Metal Slug 2",
+    "platform": "Arcade",
+    "publisher": "SNK",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Sequel with more weapons, vehicles, and enemies.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "SNK"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Metal Slug 3",
+    "platform": "Arcade",
+    "publisher": "SNK",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Often considered the best Metal Slug with zombie and alien themes.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "SNK",
+      "best-in-series"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Sunset Riders",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Wild West run and gun with 4-player co-op.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "western",
+      "Konami"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Gunstar Heroes",
+    "platform": "Arcade",
+    "publisher": "Treasure",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Frenetic run and gun with customizable weapon combos.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "action"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "House of the Dead",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "light gun",
+      "horror"
+    ],
+    "description": "On-rails zombie shooter with light gun controllers.",
+    "tags": [
+      "light gun",
+      "horror",
+      "co-op",
+      "Sega"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "House of the Dead 2",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "light gun",
+      "horror"
+    ],
+    "description": "Sequel with more zombies and memorable voice acting.",
+    "tags": [
+      "light gun",
+      "horror",
+      "co-op",
+      "Sega"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Time Crisis",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Light gun shooter with a pedal to take cover behind obstacles.",
+    "tags": [
+      "light gun",
+      "cover",
+      "Namco"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Time Crisis II",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Two-player linked light gun game with simultaneous co-op.",
+    "tags": [
+      "light gun",
+      "co-op",
+      "Namco"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Virtua Cop",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "light gun"
+    ],
+    "description": "On-rails police shooter with destructible environments.",
+    "tags": [
+      "light gun",
+      "Sega",
+      "cop"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Point Blank",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "light gun",
+      "party"
+    ],
+    "description": "Mini-game collection with light gun controllers, great for groups.",
+    "tags": [
+      "light gun",
+      "party",
+      "mini-games",
+      "Namco"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Area 51",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "light gun"
+    ],
+    "description": "First-person alien shooter at the infamous Area 51 base.",
+    "tags": [
+      "light gun",
+      "sci-fi",
+      "aliens"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Terminator 2: Judgment Day",
+    "platform": "Arcade",
+    "publisher": "Williams",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Light gun shooter based on the blockbuster film.",
+    "tags": [
+      "light gun",
+      "movie",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Star Wars Trilogy Arcade",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "shooter",
+      "rail"
+    ],
+    "description": "On-rails shooter through scenes from the original Star Wars trilogy.",
+    "tags": [
+      "Star Wars",
+      "rail shooter",
+      "Sega"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "After Burner II",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "shooter",
+      "flight"
+    ],
+    "description": "Sit-down jet fighter game with a rotating cockpit cabinet.",
+    "tags": [
+      "flight",
+      "shooter",
+      "Sega",
+      "sit-down"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Space Harrier",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "shooter",
+      "rail"
+    ],
+    "description": "Third-person rail shooter set in a fantasy planet.",
+    "tags": [
+      "rail shooter",
+      "Sega",
+      "fantasy",
+      "classic"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Centipede",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Shoot the centipede as it winds its way down the screen.",
+    "tags": [
+      "classic",
+      "Atari",
+      "shooter"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Asteroids",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Rotate and shoot floating asteroids in deep space.",
+    "tags": [
+      "classic",
+      "Atari",
+      "vector graphics"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Tempest",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Shoot enemies crawling along the rim of geometric shapes.",
+    "tags": [
+      "classic",
+      "Atari",
+      "vector graphics"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Missile Command",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Defend cities from incoming missile strikes.",
+    "tags": [
+      "classic",
+      "Atari",
+      "defense"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Frogger",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "action"
+    ],
+    "description": "Guide a frog safely across roads and rivers.",
+    "tags": [
+      "classic",
+      "family-friendly",
+      "Konami"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Joust",
+    "platform": "Arcade",
+    "publisher": "Williams",
+    "genre": [
+      "action"
+    ],
+    "description": "Fly on an ostrich and joust enemy knights off their vultures.",
+    "tags": [
+      "classic",
+      "co-op",
+      "competitive",
+      "Williams"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Robotron: 2084",
+    "platform": "Arcade",
+    "publisher": "Williams",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Twin-stick shooter where you rescue humans from killer robots.",
+    "tags": [
+      "twin-stick",
+      "classic",
+      "Williams"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Defender",
+    "platform": "Arcade",
+    "publisher": "Williams",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Protect humans from alien abduction in this horizontal shooter.",
+    "tags": [
+      "classic",
+      "shooter",
+      "Williams",
+      "horizontal"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Gyruss",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Tube shooter where you spiral towards the center shooting enemies.",
+    "tags": [
+      "shooter",
+      "classic",
+      "Konami"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Zaxxon",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Isometric space shooter with fuel management.",
+    "tags": [
+      "shooter",
+      "isometric",
+      "Sega",
+      "classic"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Scramble",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "One of the first scrolling shooters with fuel management.",
+    "tags": [
+      "shooter",
+      "classic",
+      "Konami",
+      "horizontal"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Bubble Bobble",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "platform",
+      "action"
+    ],
+    "description": "Trap enemies in bubbles and pop them in this classic co-op platformer.",
+    "tags": [
+      "co-op",
+      "classic",
+      "cute",
+      "Taito"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Rainbow Islands",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "platform",
+      "action"
+    ],
+    "description": "Sequel to Bubble Bobble with rainbow-based platforming mechanics.",
+    "tags": [
+      "platformer",
+      "co-op",
+      "Taito",
+      "colorful"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "New Zealand Story",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "platformer"
+    ],
+    "description": "Rescue kiwi birds while flying on a pink balloon through New Zealand.",
+    "tags": [
+      "platformer",
+      "cute",
+      "Taito"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Ghosts 'n Goblins",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "platformer",
+      "action"
+    ],
+    "description": "Notoriously hard platformer where Arthur rescues a princess from demons.",
+    "tags": [
+      "platformer",
+      "hard",
+      "Capcom",
+      "classic"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Ghouls 'n Ghosts",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "platformer",
+      "action"
+    ],
+    "description": "Sequel with bigger levels and more weapons, still brutally hard.",
+    "tags": [
+      "platformer",
+      "hard",
+      "Capcom"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Pitfall II: Lost Caverns",
+    "platform": "Arcade",
+    "publisher": "Activision",
+    "genre": [
+      "platformer"
+    ],
+    "description": "Explore caverns avoiding pitfalls and enemies.",
+    "tags": [
+      "platformer",
+      "classic",
+      "exploration"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Tapper",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "action"
+    ],
+    "description": "Serve drinks to bar patrons before they fall off the end.",
+    "tags": [
+      "action",
+      "Midway",
+      "classic"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "BurgerTime",
+    "platform": "Arcade",
+    "publisher": "Data East",
+    "genre": [
+      "action"
+    ],
+    "description": "Walk over burger ingredients while avoiding food enemies.",
+    "tags": [
+      "action",
+      "classic",
+      "cute"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dig Dug",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "action"
+    ],
+    "description": "Inflate and pop underground monsters while digging tunnels.",
+    "tags": [
+      "classic",
+      "Namco",
+      "cute"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Mr. Do!",
+    "platform": "Arcade",
+    "publisher": "Universal",
+    "genre": [
+      "action"
+    ],
+    "description": "Dig tunnels, collect cherries, and avoid monsters as a clown.",
+    "tags": [
+      "classic",
+      "digging",
+      "cute"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Pengo",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "action"
+    ],
+    "description": "Push ice blocks to crush enemies in an Antarctic maze.",
+    "tags": [
+      "classic",
+      "Sega",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Q*bert",
+    "platform": "Arcade",
+    "publisher": "Gottlieb",
+    "genre": [
+      "action",
+      "puzzle"
+    ],
+    "description": "Hop on isometric cubes to change their color while avoiding enemies.",
+    "tags": [
+      "classic",
+      "isometric",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Qix",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "action",
+      "puzzle"
+    ],
+    "description": "Draw lines to claim territory while avoiding the Qix sparks.",
+    "tags": [
+      "puzzle",
+      "classic",
+      "Taito"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Tetris",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "puzzle"
+    ],
+    "description": "Stack falling tetrominoes to clear lines.",
+    "tags": [
+      "puzzle",
+      "classic",
+      "iconic",
+      "solo"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Columns",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "puzzle"
+    ],
+    "description": "Match gems by color in this vertical puzzle game.",
+    "tags": [
+      "puzzle",
+      "Sega",
+      "match-3"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Puyo Puyo",
+    "platform": "Arcade",
+    "publisher": "Compile",
+    "genre": [
+      "puzzle"
+    ],
+    "description": "Stack colorful blobs to create chain reactions.",
+    "tags": [
+      "puzzle",
+      "competitive",
+      "chain"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Puzzle Bobble",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "puzzle"
+    ],
+    "description": "Shoot colored bubbles to match and pop groups.",
+    "tags": [
+      "puzzle",
+      "casual",
+      "Taito",
+      "cute"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Arkanoid",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "action",
+      "puzzle"
+    ],
+    "description": "Breakout-style game with power-ups and multiple stages.",
+    "tags": [
+      "breakout",
+      "Taito",
+      "classic"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Breakout",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "action"
+    ],
+    "description": "The original paddle and ball brick-breaking game.",
+    "tags": [
+      "classic",
+      "Atari",
+      "paddle"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Pong",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "sports"
+    ],
+    "description": "The original arcade game — two paddles, one ball.",
+    "tags": [
+      "classic",
+      "Atari",
+      "iconic",
+      "2-player"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Virtua Tennis",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "sports"
+    ],
+    "description": "Realistic tennis arcade game with simple controls.",
+    "tags": [
+      "sports",
+      "tennis",
+      "Sega"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "NBA Jam",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "sports"
+    ],
+    "description": "Over-the-top 2-on-2 basketball with on-fire mechanics.",
+    "tags": [
+      "sports",
+      "basketball",
+      "2v2",
+      "Midway"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "NFL Blitz",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "sports"
+    ],
+    "description": "Extreme American football with late hits and hard tackles.",
+    "tags": [
+      "sports",
+      "football",
+      "Midway"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Wayne Gretzky's 3D Hockey",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "sports"
+    ],
+    "description": "Fast-paced 3D hockey with Wayne Gretzky branding.",
+    "tags": [
+      "sports",
+      "hockey",
+      "Midway"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "World Cup Soccer",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "sports"
+    ],
+    "description": "Arcade football (soccer) with multiple national teams.",
+    "tags": [
+      "sports",
+      "soccer",
+      "football",
+      "Midway"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Super Shot Basketball",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "sports",
+      "redemption"
+    ],
+    "description": "Timed basketball shooting game, great for high scores.",
+    "tags": [
+      "sports",
+      "basketball",
+      "redemption"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Big Buck Hunter",
+    "platform": "Arcade",
+    "publisher": "Play Mechanix",
+    "genre": [
+      "light gun",
+      "sports"
+    ],
+    "description": "Hunt deer and wild animals with a light gun rifle.",
+    "tags": [
+      "light gun",
+      "hunting",
+      "co-op"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Golden Tee Golf",
+    "platform": "Arcade",
+    "publisher": "Incredible Technologies",
+    "genre": [
+      "sports"
+    ],
+    "description": "Trackball golf game with real course layouts.",
+    "tags": [
+      "sports",
+      "golf",
+      "trackball"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Pop'n Music",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "Hit colorful buttons in time with music.",
+    "tags": [
+      "rhythm",
+      "music",
+      "Konami",
+      "colorful"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Dance Dance Revolution",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "music",
+      "rhythm",
+      "dance"
+    ],
+    "description": "Step on arrows in time with the music on a dance pad.",
+    "tags": [
+      "rhythm",
+      "dance",
+      "Konami",
+      "fitness"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Beatmania",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "DJ-themed rhythm game with turntable and keys.",
+    "tags": [
+      "rhythm",
+      "DJ",
+      "Konami",
+      "music"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Guitar Freaks",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "Play guitar riffs in time with the music.",
+    "tags": [
+      "rhythm",
+      "guitar",
+      "Konami",
+      "music"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Taiko no Tatsujin",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "Play a taiko drum in time with Japanese music.",
+    "tags": [
+      "rhythm",
+      "drums",
+      "Japanese",
+      "Namco"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "jubeat",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "Tap squares on a 4x4 grid in time with music.",
+    "tags": [
+      "rhythm",
+      "touch",
+      "Konami",
+      "music"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "maimai",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "Circular rhythm game where you tap, hold, and slide notes.",
+    "tags": [
+      "rhythm",
+      "Sega",
+      "circular",
+      "music"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "CHUNITHM",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "Slide and tap notes on a wide sensor bar with air notes.",
+    "tags": [
+      "rhythm",
+      "Sega",
+      "music"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Sound Voltex",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "music",
+      "rhythm"
+    ],
+    "description": "Rhythm game with knobs and buttons for complex patterns.",
+    "tags": [
+      "rhythm",
+      "Konami",
+      "music",
+      "technical"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Pump It Up",
+    "platform": "Arcade",
+    "publisher": "Andamiro",
+    "genre": [
+      "music",
+      "rhythm",
+      "dance"
+    ],
+    "description": "Korean dance game on a diagonal 5-panel layout.",
+    "tags": [
+      "rhythm",
+      "dance",
+      "Korean",
+      "fitness"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "ParaParaParadise",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "music",
+      "rhythm",
+      "dance"
+    ],
+    "description": "Wave your arms in front of sensors to dance along to Eurobeat.",
+    "tags": [
+      "rhythm",
+      "dance",
+      "Konami",
+      "Eurobeat"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Wangan Midnight Maximum Tune",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "racing"
+    ],
+    "description": "Street racing on Tokyo's expressways with car tuning.",
+    "tags": [
+      "racing",
+      "Namco",
+      "tuning",
+      "Japanese"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "F-Zero AX",
+    "platform": "Arcade",
+    "publisher": "Sega / Nintendo",
+    "genre": [
+      "racing"
+    ],
+    "description": "Futuristic anti-gravity racing at extreme speeds.",
+    "tags": [
+      "racing",
+      "Nintendo",
+      "futuristic",
+      "fast"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Virtua Racing",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Groundbreaking early 3D polygon racing game.",
+    "tags": [
+      "racing",
+      "Sega",
+      "3D",
+      "classic"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Hang-On",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Motorbike racing with a full-size bike cabinet to lean on.",
+    "tags": [
+      "racing",
+      "motorbike",
+      "Sega",
+      "sit-down"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Super Monaco GP",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Formula 1 racing around Monaco and other tracks.",
+    "tags": [
+      "racing",
+      "F1",
+      "Sega"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Turbo",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Early sit-down driving game with sprite-scaling graphics.",
+    "tags": [
+      "racing",
+      "Sega",
+      "classic"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Spy Hunter",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "driving",
+      "action"
+    ],
+    "description": "Drive a weaponized car and destroy enemy vehicles.",
+    "tags": [
+      "driving",
+      "action",
+      "Midway",
+      "classic"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "RoadBlasters",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "driving",
+      "shoot 'em up"
+    ],
+    "description": "Drive and shoot your way through post-apocalyptic roads.",
+    "tags": [
+      "driving",
+      "shooter",
+      "Atari"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Power Drift",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Wild kart-like racing on hilly tracks with a unique art style.",
+    "tags": [
+      "racing",
+      "Sega",
+      "kart"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Manx TT Super Bike",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "racing"
+    ],
+    "description": "Motorbike racing on the famous Isle of Man TT circuit.",
+    "tags": [
+      "racing",
+      "motorbike",
+      "Sega"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Dragon's Lair",
+    "platform": "Arcade",
+    "publisher": "Cinematronics",
+    "genre": [
+      "interactive movie",
+      "action"
+    ],
+    "description": "Laserdisc animated adventure where you guide Dirk the Daring.",
+    "tags": [
+      "interactive",
+      "animated",
+      "classic",
+      "Don Bluth"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Space Ace",
+    "platform": "Arcade",
+    "publisher": "Cinematronics",
+    "genre": [
+      "interactive movie",
+      "action"
+    ],
+    "description": "Sci-fi laserdisc game follow-up to Dragon's Lair.",
+    "tags": [
+      "interactive",
+      "animated",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Ninja Gaiden",
+    "platform": "Arcade",
+    "publisher": "Tecmo",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Side-scrolling brawler featuring a ninja on a revenge quest.",
+    "tags": [
+      "beat 'em up",
+      "ninja",
+      "Tecmo"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Bad Dudes",
+    "platform": "Arcade",
+    "publisher": "Data East",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Beat up ninjas to rescue the President.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "classic"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Battletoads",
+    "platform": "Arcade",
+    "publisher": "Rare",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Hard-as-nails brawler featuring frog warriors with morphing limbs.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "hard"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Warriors of Fate",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Chinese historical brawler set in the Three Kingdoms era.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Capcom",
+      "history"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Knights of the Round",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Medieval brawler based on Arthurian legend.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Capcom",
+      "medieval"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Punisher",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Play as the Punisher or Nick Fury fighting the Kingpin.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Marvel",
+      "Capcom"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Armored Warriors",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Mech-based brawler where you can swap parts from defeated enemies.",
+    "tags": [
+      "beat 'em up",
+      "mech",
+      "Capcom",
+      "co-op"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "King of Dragons",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up",
+      "RPG"
+    ],
+    "description": "Fantasy brawler with level-up mechanics and dragon bosses.",
+    "tags": [
+      "beat 'em up",
+      "fantasy",
+      "RPG",
+      "co-op"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Battle Circuit",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Colorful sci-fi brawler, one of Capcom's last arcade games.",
+    "tags": [
+      "beat 'em up",
+      "sci-fi",
+      "Capcom",
+      "colorful"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Bucky O'Hare",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Side-scrolling action game based on the cartoon.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "cartoon",
+      "Konami"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "G.I. Joe",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "run and gun"
+    ],
+    "description": "Run and gun based on the classic toy and cartoon franchise.",
+    "tags": [
+      "run and gun",
+      "co-op",
+      "Konami",
+      "cartoon"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Asterix",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Brawler based on the beloved Belgian comic series.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "cartoon",
+      "Konami"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Willow",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "action",
+      "RPG"
+    ],
+    "description": "Action RPG based on the 1988 film by Ron Howard.",
+    "tags": [
+      "RPG",
+      "action",
+      "movie",
+      "Capcom"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Snow Bros.",
+    "platform": "Arcade",
+    "publisher": "Toaplan",
+    "genre": [
+      "platformer",
+      "action"
+    ],
+    "description": "Throw snowballs to freeze and roll enemies in this cute platformer.",
+    "tags": [
+      "platformer",
+      "co-op",
+      "cute",
+      "classic"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Bomb Jack",
+    "platform": "Arcade",
+    "publisher": "Tehkan",
+    "genre": [
+      "platformer",
+      "action"
+    ],
+    "description": "Collect bombs while avoiding enemies on single-screen stages.",
+    "tags": [
+      "platformer",
+      "classic",
+      "solo"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Lode Runner",
+    "platform": "Arcade",
+    "publisher": "Broderbund",
+    "genre": [
+      "platformer",
+      "puzzle"
+    ],
+    "description": "Dig holes to trap enemies and collect gold on grid-based levels.",
+    "tags": [
+      "platformer",
+      "puzzle",
+      "classic"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Tron",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "action"
+    ],
+    "description": "Multi-game cabinet based on the Disney film with MCP boss fight.",
+    "tags": [
+      "classic",
+      "movie",
+      "Midway"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Gauntlet",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "action",
+      "RPG"
+    ],
+    "description": "4-player dungeon crawler with warriors, valkyries, wizards, and elves.",
+    "tags": [
+      "dungeon",
+      "co-op",
+      "RPG",
+      "Atari",
+      "4-player"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Gauntlet II",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "action",
+      "RPG"
+    ],
+    "description": "Sequel with new enemies, multiple players of the same class.",
+    "tags": [
+      "dungeon",
+      "co-op",
+      "RPG",
+      "Atari"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Gauntlet: Dark Legacy",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "action",
+      "RPG"
+    ],
+    "description": "Full 3D Gauntlet sequel with 8 character classes.",
+    "tags": [
+      "dungeon",
+      "co-op",
+      "RPG",
+      "Midway"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Primal Rage",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Fighting game featuring giant prehistoric beasts as fighters.",
+    "tags": [
+      "fighting",
+      "dinosaurs",
+      "Atari",
+      "monsters"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Killer Instinct",
+    "platform": "Arcade",
+    "publisher": "Midway / Rare",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Fast combo-based fighter with auto-doubles and ultra combos.",
+    "tags": [
+      "fighting",
+      "combos",
+      "Midway"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Killer Instinct 2",
+    "platform": "Arcade",
+    "publisher": "Midway / Rare",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Sequel adding new fighters and improved ultra combos.",
+    "tags": [
+      "fighting",
+      "combos",
+      "Midway"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "War Gods",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "fighting"
+    ],
+    "description": "3D fighter featuring ancient gods as warriors.",
+    "tags": [
+      "fighting",
+      "3D",
+      "Midway"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Mace: The Dark Age",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Medieval weapon-based 3D fighter.",
+    "tags": [
+      "fighting",
+      "3D",
+      "weapons",
+      "medieval"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "San Francisco Rush: Extreme Racing",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "racing"
+    ],
+    "description": "Racing with huge jumps through San Francisco.",
+    "tags": [
+      "racing",
+      "stunts",
+      "Atari"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Cruisin' World",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "racing"
+    ],
+    "description": "Race through international landmarks worldwide.",
+    "tags": [
+      "racing",
+      "Midway",
+      "global"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Prop Cycle",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "action",
+      "flying"
+    ],
+    "description": "Pedal a propeller bike to fly through the air and pop balloons.",
+    "tags": [
+      "unique",
+      "pedal",
+      "Namco",
+      "flying"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Alpine Racer",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "sports",
+      "racing"
+    ],
+    "description": "Ski racing simulator with standing ski-controller cabinet.",
+    "tags": [
+      "skiing",
+      "Namco",
+      "sports",
+      "simulation"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Top Skater",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "sports"
+    ],
+    "description": "Skateboarding game with a real skateboard as the controller.",
+    "tags": [
+      "skateboarding",
+      "Sega",
+      "sports",
+      "unique"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Surf Planet",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "sports"
+    ],
+    "description": "Surfing game with a full surfboard cabinet to balance on.",
+    "tags": [
+      "surfing",
+      "Namco",
+      "sports",
+      "unique"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Star Wars",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "shooter",
+      "vector"
+    ],
+    "description": "Vector graphics cockpit shooter recreating the Death Star trench run.",
+    "tags": [
+      "Star Wars",
+      "vector",
+      "Atari",
+      "cockpit"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Firefox",
+    "platform": "Arcade",
+    "publisher": "Atari",
+    "genre": [
+      "shooter",
+      "flight"
+    ],
+    "description": "Laserdisc sit-down flight combat game with film footage.",
+    "tags": [
+      "flight",
+      "laserdisc",
+      "Atari",
+      "cockpit"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Stun Runner",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "racing",
+      "action"
+    ],
+    "description": "Futuristic tube racing game with a cockpit cabinet.",
+    "tags": [
+      "racing",
+      "futuristic",
+      "Atari",
+      "tube"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Hard Drivin'",
+    "platform": "Arcade",
+    "publisher": "Atari Games",
+    "genre": [
+      "racing",
+      "simulation"
+    ],
+    "description": "First realistic 3D racing simulator with crash replays.",
+    "tags": [
+      "racing",
+      "simulation",
+      "Atari",
+      "3D"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Steel Gunner",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "light gun"
+    ],
+    "description": "On-rails shooter fighting robots in a sci-fi setting.",
+    "tags": [
+      "light gun",
+      "sci-fi",
+      "Namco"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Lethal Enforcers",
+    "platform": "Arcade",
+    "publisher": "Konami",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Realistic digitized light gun shooter set in a city crime wave.",
+    "tags": [
+      "light gun",
+      "Konami",
+      "realistic"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Revolution X",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Light gun shooter featuring Aerosmith, fight a youth-controlling cult.",
+    "tags": [
+      "light gun",
+      "Aerosmith",
+      "Midway"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Carnevil",
+    "platform": "Arcade",
+    "publisher": "Midway",
+    "genre": [
+      "light gun",
+      "horror"
+    ],
+    "description": "Horror-themed light gun game set in an evil carnival.",
+    "tags": [
+      "light gun",
+      "horror",
+      "Midway"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Ghost Squad",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "light gun"
+    ],
+    "description": "On-rails shooter where you play as elite anti-terror operatives.",
+    "tags": [
+      "light gun",
+      "Sega",
+      "military"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Confidential Mission",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Spy-themed on-rails shooter inspired by James Bond.",
+    "tags": [
+      "light gun",
+      "spy",
+      "Sega"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "The Lost World: Jurassic Park",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Shoot dinosaurs in this on-rails game based on the film.",
+    "tags": [
+      "light gun",
+      "dinosaurs",
+      "Sega",
+      "movie"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Alien 3: The Gun",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Light gun shooter set in the Alien universe.",
+    "tags": [
+      "light gun",
+      "sci-fi",
+      "Sega",
+      "horror"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Dynamite Cop",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Action brawler set on a cruise ship with over-the-top comedy.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Sega",
+      "comedy"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Fighting Vipers",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "fighting"
+    ],
+    "description": "3D fighter where armor breaks off as you take damage.",
+    "tags": [
+      "fighting",
+      "3D",
+      "Sega",
+      "armor"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Last Bronx",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Weapon-based 3D fighter set in street gang Tokyo.",
+    "tags": [
+      "fighting",
+      "3D",
+      "weapons",
+      "Sega"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Cyber Troopers Virtual-On",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "action",
+      "fighting"
+    ],
+    "description": "Twin-stick mech combat with giant robots in fast 3D arenas.",
+    "tags": [
+      "mech",
+      "twin-stick",
+      "3D",
+      "Sega"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Cosmic Smash",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "sports",
+      "action"
+    ],
+    "description": "Minimalist squash-inspired game with a futuristic style.",
+    "tags": [
+      "sports",
+      "Sega",
+      "minimalist",
+      "futuristic"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Sega Water Ski",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "sports",
+      "simulation"
+    ],
+    "description": "Water ski simulator with a full ski controller cabinet.",
+    "tags": [
+      "sports",
+      "skiing",
+      "Sega",
+      "unique"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Sega Ski Super G",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "sports"
+    ],
+    "description": "Ski slalom racing with a ski-board cabinet.",
+    "tags": [
+      "sports",
+      "skiing",
+      "Sega"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Ghoul Panic",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "light gun",
+      "horror"
+    ],
+    "description": "Wacky ghost-shooting carnival game with colorful characters.",
+    "tags": [
+      "light gun",
+      "horror",
+      "Namco",
+      "comedy"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Tekken Tag Tournament",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "fighting"
+    ],
+    "description": "Tag-team Tekken with nearly the entire franchise roster.",
+    "tags": [
+      "fighting",
+      "tag-team",
+      "Namco",
+      "3D"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Soul Edge",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "fighting"
+    ],
+    "description": "The original weapon-based 3D fighter that spawned Soulcalibur.",
+    "tags": [
+      "fighting",
+      "3D",
+      "weapons",
+      "Namco"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Time Crisis 3",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Time Crisis with selectable weapons and more open environments.",
+    "tags": [
+      "light gun",
+      "Namco",
+      "cover"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Crisis Zone",
+    "platform": "Arcade",
+    "publisher": "Namco",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Time Crisis spin-off with a machine gun controller.",
+    "tags": [
+      "light gun",
+      "Namco",
+      "machine gun"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Vampire Night",
+    "platform": "Arcade",
+    "publisher": "Namco / Sega",
+    "genre": [
+      "light gun",
+      "horror"
+    ],
+    "description": "On-rails vampire shooter set in a haunted European town.",
+    "tags": [
+      "light gun",
+      "horror",
+      "vampires",
+      "Namco"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Wonder League Star",
+    "platform": "Arcade",
+    "publisher": "Andamiro",
+    "genre": [
+      "sports"
+    ],
+    "description": "Redemption-style sports arcade game with ticket prizes.",
+    "tags": [
+      "sports",
+      "redemption",
+      "tickets"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Wacky Gator",
+    "platform": "Arcade",
+    "publisher": "Barron Games",
+    "genre": [
+      "redemption"
+    ],
+    "description": "Whack the gators before they pop out at you for tickets.",
+    "tags": [
+      "redemption",
+      "whack-a-mole",
+      "tickets"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Skee-Ball",
+    "platform": "Arcade",
+    "publisher": "Skee-Ball Inc.",
+    "genre": [
+      "redemption",
+      "sports"
+    ],
+    "description": "Roll a ball up a ramp to land in scoring rings for tickets.",
+    "tags": [
+      "redemption",
+      "tickets",
+      "classic",
+      "sports"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Zombie Raid",
+    "platform": "Arcade",
+    "publisher": "American Sammy",
+    "genre": [
+      "light gun",
+      "horror"
+    ],
+    "description": "Shoot zombies in a Victorian-era horror setting.",
+    "tags": [
+      "light gun",
+      "horror",
+      "zombies"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Operation Wolf",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Early military light gun game with a mounted machine gun.",
+    "tags": [
+      "light gun",
+      "military",
+      "Taito",
+      "classic"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Operation Thunder",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Sequel to Operation Wolf with improved graphics.",
+    "tags": [
+      "light gun",
+      "military",
+      "Taito"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Mechanized Attack",
+    "platform": "Arcade",
+    "publisher": "SNK",
+    "genre": [
+      "light gun"
+    ],
+    "description": "Military light gun game with two-player co-op.",
+    "tags": [
+      "light gun",
+      "military",
+      "SNK",
+      "co-op"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Growl",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "beat 'em up"
+    ],
+    "description": "Beat 'em up where you play as rangers fighting animal poachers.",
+    "tags": [
+      "beat 'em up",
+      "co-op",
+      "Taito",
+      "animals"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Darius",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Wide tri-screen horizontal shooter featuring sea creature bosses.",
+    "tags": [
+      "shooter",
+      "horizontal",
+      "Taito",
+      "multi-screen"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Darius II",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Sequel with dual-screen setup and more sea-creature bosses.",
+    "tags": [
+      "shooter",
+      "horizontal",
+      "Taito",
+      "dual-screen"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Thunder Blade",
+    "platform": "Arcade",
+    "publisher": "Sega",
+    "genre": [
+      "shooter",
+      "action"
+    ],
+    "description": "Helicopter combat game with both top-down and behind-view stages.",
+    "tags": [
+      "shooter",
+      "helicopter",
+      "Sega"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Espgaluda",
+    "platform": "Arcade",
+    "publisher": "Cave",
+    "genre": [
+      "shoot 'em up",
+      "bullet hell"
+    ],
+    "description": "Bullet hell with a slow-mo mechanic that turns bullets to gold.",
+    "tags": [
+      "bullet hell",
+      "shooter",
+      "Cave",
+      "technical"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Mushihimesama",
+    "platform": "Arcade",
+    "publisher": "Cave",
+    "genre": [
+      "shoot 'em up",
+      "bullet hell"
+    ],
+    "description": "Insect-themed bullet hell with stunning patterns.",
+    "tags": [
+      "bullet hell",
+      "shooter",
+      "Cave",
+      "insects"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Guwange",
+    "platform": "Arcade",
+    "publisher": "Cave",
+    "genre": [
+      "shoot 'em up",
+      "bullet hell"
+    ],
+    "description": "Feudal Japan bullet hell with demon-possession mechanics.",
+    "tags": [
+      "bullet hell",
+      "shooter",
+      "Cave",
+      "Japanese"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Progear",
+    "platform": "Arcade",
+    "publisher": "Cave / Capcom",
+    "genre": [
+      "shoot 'em up",
+      "bullet hell"
+    ],
+    "description": "Steampunk horizontal bullet hell by Cave.",
+    "tags": [
+      "bullet hell",
+      "shooter",
+      "Cave",
+      "steampunk"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Zero Wing",
+    "platform": "Arcade",
+    "publisher": "Toaplan",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Side-scrolling shooter famous for its 'All your base' mistranslation.",
+    "tags": [
+      "shooter",
+      "horizontal",
+      "meme",
+      "Toaplan"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Batsugun",
+    "platform": "Arcade",
+    "publisher": "Toaplan",
+    "genre": [
+      "shoot 'em up",
+      "bullet hell"
+    ],
+    "description": "Vertical shooter that pioneered the bullet hell genre.",
+    "tags": [
+      "bullet hell",
+      "shooter",
+      "Toaplan",
+      "pioneer"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Twin Cobra",
+    "platform": "Arcade",
+    "publisher": "Taito",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Top-down military helicopter shooter.",
+    "tags": [
+      "shooter",
+      "helicopter",
+      "Taito",
+      "vertical"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "UN Squadron",
+    "platform": "Arcade",
+    "publisher": "Capcom",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Horizontal jet fighter shooter based on the Area 88 manga.",
+    "tags": [
+      "shooter",
+      "horizontal",
+      "Capcom",
+      "military"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Vapor Trail",
+    "platform": "Arcade",
+    "publisher": "Data East",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Vertical jet fighter shooter with detailed explosions.",
+    "tags": [
+      "shooter",
+      "vertical",
+      "Data East",
+      "military"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Gemini Wing",
+    "platform": "Arcade",
+    "publisher": "Tecmo",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Vertical shooter with a unique sticky ball weapon system.",
+    "tags": [
+      "shooter",
+      "vertical",
+      "Tecmo"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Hawkwind",
+    "platform": "Arcade",
+    "publisher": "Jaleco",
+    "genre": [
+      "shoot 'em up"
+    ],
+    "description": "Vertical shooter with a close-range energy sword attack.",
+    "tags": [
+      "shooter",
+      "vertical",
+      "Jaleco"
+    ]
+  }
+]
